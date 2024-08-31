@@ -1,3 +1,5 @@
+[中文](https://github.com/WeCanSTU/TechSync/blob/main/README_CN.md) / [English](https://github.com/WeCanSTU/TechSync/blob/main/README.md)
+
 # TechSync
 
 TechSync 是一款强大的工具，旨在帮助用户轻松配置和管理多款硬件设备。无论是处理复杂的设置还是简单的连接，TechSync 都能简化流程，节省您的时间和精力。
