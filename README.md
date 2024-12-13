@@ -1,3 +1,5 @@
+[中文](https://github.com/WeCanSTU/TechSync/blob/main/README_CN.md) / [English](https://github.com/WeCanSTU/TechSync/blob/main/README.md)
+
 # TechSync: Intelligent Management, Effortless Operation
 
 ## Introduction
