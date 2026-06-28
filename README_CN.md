@@ -289,38 +289,12 @@ flowchart LR
 
 ---
 
-## 下载趋势
+## Star 历史
 
 <div align="center">
-<svg width="620" height="340" viewBox="0 0 620 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Releases 累计下载趋势手绘曲线图">
-  <defs>
-    <filter id="handdrawn-shadow-cn" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#6b4e0a" flood-opacity="0.12"/>
-    </filter>
-  </defs>
-  <rect x="24" y="18" width="572" height="298" rx="26" fill="#fffdf8" stroke="#eadfca" stroke-width="2" filter="url(#handdrawn-shadow-cn)"/>
-  <text x="310" y="56" text-anchor="middle" font-family="Kalam, Comic Sans MS, Bradley Hand, cursive" font-size="22" font-weight="700" fill="#6b4e0a">GitHub Releases 累计下载趋势</text>
-  <path d="M88 254 C86 215 91 174 88 136 C85 99 90 78 88 78" fill="none" stroke="#8a6a14" stroke-width="3" stroke-linecap="round"/>
-  <path d="M86 254 C165 251 235 256 310 252 C389 249 459 254 532 252" fill="none" stroke="#8a6a14" stroke-width="3" stroke-linecap="round"/>
-  <path d="M92 202 C208 199 310 205 532 200" fill="none" stroke="#e9dcc2" stroke-width="2" stroke-dasharray="8 10" stroke-linecap="round"/>
-  <path d="M92 146 C218 143 335 149 532 144" fill="none" stroke="#e9dcc2" stroke-width="2" stroke-dasharray="8 10" stroke-linecap="round"/>
-  <path d="M92 90 C220 88 352 93 532 89" fill="none" stroke="#e9dcc2" stroke-width="2" stroke-dasharray="8 10" stroke-linecap="round"/>
-  <path d="M138 171 C190 142 237 113 292 102 C358 89 422 96 486 96" fill="none" stroke="#6b4e0a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M138 173 C190 145 238 116 293 104 C357 92 422 98 486 98" fill="none" stroke="#d9b45f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
-  <g font-family="Kalam, Comic Sans MS, Bradley Hand, cursive" fill="#3a3024">
-    <circle cx="138" cy="171" r="7" fill="#fff8e8" stroke="#6b4e0a" stroke-width="3"/>
-    <text x="138" y="148" text-anchor="middle" font-size="17" font-weight="700">19</text>
-    <circle cx="292" cy="102" r="7" fill="#fff8e8" stroke="#6b4e0a" stroke-width="3"/>
-    <text x="292" y="80" text-anchor="middle" font-size="17" font-weight="700">31</text>
-    <circle cx="486" cy="96" r="7" fill="#fff8e8" stroke="#6b4e0a" stroke-width="3"/>
-    <text x="486" y="74" text-anchor="middle" font-size="17" font-weight="700">31</text>
-    <text x="138" y="284" text-anchor="middle" font-size="14">2024-12-11</text>
-    <text x="292" y="284" text-anchor="middle" font-size="14">2025-09-07</text>
-    <text x="486" y="284" text-anchor="middle" font-size="14">2026-06-26</text>
-    <text x="66" y="92" text-anchor="end" font-size="13">35</text>
-    <text x="66" y="203" text-anchor="end" font-size="13">15</text>
-  </g>
-</svg>
+
+[![Star History Chart](https://api.star-history.com/image?repos=WeCanSTU/TechSync&type=Date)](https://star-history.t9t.io/#WeCanSTU/TechSync&Date)
+
 </div>
 
 ---
